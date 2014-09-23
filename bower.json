@@ -1,0 +1,19 @@
+{
+  "name": "angular_setup_with_gulp",
+  "version": "0.0.1",
+  "authors": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-ui-router": "~0.2.10",
+    "modernizr": "~2.7.2"
+  }
+}

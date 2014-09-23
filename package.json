@@ -1,0 +1,24 @@
+{
+  "name": "angular_setup_with_gulp",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "event-stream": "^3.1.7",
+    "gulp": "^3.8.8",
+    "gulp-bower": "0.0.6",
+    "gulp-bower-files": "^0.2.7",
+    "gulp-filesize": "0.0.6",
+    "gulp-imagemin": "^1.0.1",
+    "gulp-inject": "^1.0.2",
+    "gulp-jshint": "^1.8.4",
+    "gulp-karma": "0.0.4",
+    "gulp-notify": "^1.7.0",
+    "gulp-sass": "^0.7.3",
+    "jshint-stylish": "^1.0.0",
+    "karma": "^0.12.23",
+    "run-sequence": "^0.3.7"
+  }
+}
