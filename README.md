@@ -1,5 +1,7 @@
 # angular_setup_with_gulp
 
+This was a test only, to try out Gulp's suite of plugins.
+
 ***
 
 ## Quick Start
